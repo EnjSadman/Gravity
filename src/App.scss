@@ -1,3 +1,16 @@
-.starter {
-  font-size: 18px;
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.singleImage {
+  height: 256px;
 }

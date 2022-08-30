@@ -13,6 +13,8 @@ module.exports = {
     semi: 0,
     'no-proto': 0,
     'no-unused-vars': 0,
+    'no-console': 1,
+    'no-await-in-loop': 0,
 
     // TypeScript
     '@typescript-eslint/no-unused-vars': ['error'],

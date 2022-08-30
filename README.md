@@ -1,9 +1,22 @@
-# React TypeScript Starter Pack
+# Test Task for Gravity
 
-To use this template click `Use this template`
+This test task was made by Roman Pavlenko for Gravity
 
-### Available Scripts
+# Description
 
-`Deploy` - available to deploy your application to gh-pages
+This app uses async functions to fetch data from server
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Dependencies
+
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+* Typescript
+* SASS
+
+# Local
+
+Fork and clone repo
+
+Run `npm install`
+
+Run `npm start`
