@@ -2,6 +2,10 @@
 
 This test task was made by Roman Pavlenko for Gravity
 
+# Demo
+
+[Demo Link](https://enjsadman.github.io/Gravity/)
+
 # Description
 
 This app uses async functions to fetch data from server
